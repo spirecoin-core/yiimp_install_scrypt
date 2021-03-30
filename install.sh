@@ -323,6 +323,7 @@
     hide_output sudo ufw allow 6333/tcp
     hide_output sudo ufw allow 6433/tcp
     hide_output sudo ufw allow 7433/tcp
+    hide_output sudo ufw allow 7666/tcp
     hide_output sudo ufw allow 8333/tcp
     hide_output sudo ufw allow 8463/tcp
     hide_output sudo ufw allow 8433/tcp
